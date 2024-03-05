@@ -34,4 +34,5 @@ THEN I find a concise, descriptive title
 ## URL of deployed site
 https://zmuda44.github.io/Module-1-Challenge/
 
-##Screenshot of deployed site
+## Screenshot of deployed site
+![alt text](<assets/Screenshot 2024-03-04 225439.png>)
