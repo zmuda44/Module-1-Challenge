@@ -33,3 +33,5 @@ THEN I find a concise, descriptive title
 
 ## URL of deployed site
 https://zmuda44.github.io/Module-1-Challenge/
+
+##Screenshot of deployed site
