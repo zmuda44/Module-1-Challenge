@@ -28,5 +28,5 @@ THEN I find a concise, descriptive title
 
 1. Changed all divs to semantic elements for sections of the site.
 2. Added comments to further separate code into sections for future coders.
-3. I consolidated code by making universal classes for similarly styled items and kept the original class as an id. I could've also used a space and gave each div 2 classes but figured id was preferrable.
+3. I consolidated code by making universal classes for similarly styled items and kept the original class as an id where applicable. I could've also used a space (in the html class) and gave each div 2 classes but figured id was preferrable.
 4. The search-engine-optimization, online-reputation-management and social-media-marketing classes were below the benefits class in the css folder but above them in the HTML. I moved these to what seems like their proper spot and consolidated more classes. Instead of adding classes, I could've used .content div as a selector but chose to use classes.
